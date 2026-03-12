@@ -11,12 +11,13 @@ Two ML models were developed:
 This repository includes data preprocessing, model building, evaluation metrics, visualizations, and ethical considerations.
 
 Project Structure
+
 ├── EDA                   
 ├── Preprocessing for Neural Networks             
 ├── Neural Network Baseline model                 
 ├── Comparative Analysis of Imbalance Handling             
 ├── Final Neural Network Model   
-├── Final Decision Tree Model (includes preprocessing)
+├── Final Decision Tree Model (includes preprocessing)  
 └── README.md     
 
 Dataset
